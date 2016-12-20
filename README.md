@@ -18,3 +18,4 @@ Notes and codes while learning gn
 * [GN Language and Operation](https://chromium.googlesource.com/chromium/src/+/master/tools/gn/docs/language.md)
 * [GN Reference](https://chromium.googlesource.com/chromium/src/+/master/tools/gn/docs/reference.md)
 * [Chrome GN build configuration](http://www.chromium.org/developers/gn-build-configuration)
+* [Ninja](https://ninja-build.org/)
