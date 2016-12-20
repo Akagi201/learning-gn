@@ -4,7 +4,7 @@ Notes and codes while learning gn
 
 ## Install gn
 
-1. Start up [WebRTC build environment](https://webrtc.org/native-code/development/).
+1. Set up [WebRTC build environment](https://webrtc.org/native-code/development/).
 2. gn is here: `webrtc-checkout/src/buildtools/mac/gn`.
 3. `alias gn=/Users/akagi201/Documents/webrtc-checkout/src/buildtools/mac/gn` in current shell.
 
